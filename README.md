@@ -40,3 +40,10 @@ Our solution harnesses the power of Gen AI and LLM with the Intel Developer Clou
 
 ![Model Inference 1](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/efe5d774-7e94-4f1f-b523-3d19e952e4f9)
 ![Model Inference 2](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/21bf5fac-bc11-4fb8-a343-cee805d65ff9)
+
+
+
+https://github.com/user-attachments/assets/302c3dba-9eb7-40e0-a889-7d2bf3927853
+
+
+
